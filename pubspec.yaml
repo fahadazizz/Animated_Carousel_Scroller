@@ -1,6 +1,6 @@
 name: animated_carousel_scroller
 description: A Flutter package that provides a customizable carousel scroll widget with smooth animations. Highlights the currently selected image with animated size and opacity effects.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/fahadazizz/Animated_Carousel_Scroller.git
 license: "MIT"
 
