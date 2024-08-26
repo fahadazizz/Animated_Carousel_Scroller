@@ -16,9 +16,6 @@ dependencies:
   animated_carousel_scroller: ^0.0.1
 ```
 
-## Then run
-flutter pub get
-
 ## Usage
 ```
 import 'package:flutter/material.dart';
