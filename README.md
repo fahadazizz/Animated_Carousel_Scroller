@@ -8,7 +8,7 @@
 - **Easy to Use**: Simple integration into your Flutter app with easy-to-configure parameters.
 - **Flexible**: Adjust the carousel’s height, image sizes, and animation speed to fit your design needs.
 
-## InstallationQ
+## Installation
 To use `animated_carousel_scroller`, add it to your `pubspec.yaml` file:
 
 ```yaml
