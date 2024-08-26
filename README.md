@@ -13,7 +13,7 @@ To use `animated_carousel_scroller`, add it to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  animated_carousel_scroller: ^0.0.1
+  animated_carousel_scroller: ^0.0.2
 ```
 
 ## Usage
