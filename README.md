@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Custom Animated Carousel'),
         ),
-        body: CustomAnimatedCarouselScroll(
+        body: AnimatedCarouselScroll(
           images: [
             'assets/image1.jpg',
             'assets/image2.jpg',
