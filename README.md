@@ -13,7 +13,7 @@ To use `animated_carousel_scroller`, add it to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  animated_carousel_scroller: ^0.0.1
+  animated_carousel_scroller: ^0.0.3
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Custom Animated Carousel'),
         ),
-        body: CustomAnimatedCarouselScroll(
+        body: AnimatedCarouselScroll(
           images: [
             'assets/image1.jpg',
             'assets/image2.jpg',
